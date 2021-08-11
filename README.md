@@ -1,6 +1,6 @@
 -hii , I'm vaibhav patil
 - I'm intrested in web devlopment
-- I’m currently learning computer science
+
 
 
 <!---
